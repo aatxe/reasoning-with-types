@@ -1,6 +1,8 @@
 [package]
 name = "reasoning-with-types"
-version = "0.1.0"
+version = "0.0.0"
 authors = ["Aaron Weiss <awe@pdgn.co>"]
+description = "Example code for a blog post on reasoning with types."
+license = "BSD-2-Clause"
 
 [dependencies]
